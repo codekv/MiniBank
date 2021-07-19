@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names_of_contact">
+        <item>---Select a User---</item>
+        <item>Asmita Agrawal</item>
+        <item>Ankit Sharma</item>
+        <item>Vaishali Singh</item>
+        <item>Bharat Kumar</item>
+        <item>Ansh Mittal</item>
+        <item>Rahul Chopra</item>
+        <item>Radhika Gupta</item>
+        <item>Keshav Kumar</item>
+        <item>Harshita Tiwari</item>
+        <item>Tarak Mehta</item>
+
+
+    </string-array>
+</resources>
